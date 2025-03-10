@@ -1,6 +1,6 @@
 # COSC-435: Mobile App Development (iOS)
 
-This repository contains the coursework and projects for COSC-435 - Mobile App Development (iOS) at Towson University.
+This repository contains the coursework for COSC-435 - Mobile App Development (iOS) at Towson University.
 
 ## Course Description
 
